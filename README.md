@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Viswajeetsinh jadeja
 - 👀 I’m interested in software development
-- 🌱 I’m currently Pursuing B.Tech(computer science and engineering)
 - 📫 How to reach me 
 - email id:- Jadejav009@gmail.com
 
